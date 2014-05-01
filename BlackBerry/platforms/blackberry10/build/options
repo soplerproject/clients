@@ -1,0 +1,29 @@
+-package
+-buildId
+0
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/device/bb10app.bar
+-barVersion
+1.5
+-C
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src
+bar-descriptor.xml
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/config.xml
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/cordova.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/cordova_plugins.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/index.html
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/wwe
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/chrome/frameworkModules.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/chrome/index.html
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/chrome/require.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/chrome/ui.html
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/chrome/lib/exception.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/chrome/lib/utils.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/css/index.css
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/img/.directory
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/img/logo.png
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/img/splash-1280x768.png
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/img/splash-720x1280.png
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/img/splash-720x720.png
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/img/splash-768x1280.png
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/js/index.js
+/home/etern4l/WebWorks Projects/Sopler/platforms/blackberry10/build/src/plugins/jnext/auth.txt
